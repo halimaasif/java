@@ -1,0 +1,13 @@
+h1{
+    color: azure;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    position: sticky;
+    top: 0;
+}
+*{
+    height: 100vh;
+    width: 100%;
+    background:linear-gradient(to right ,pink,red);
+}
